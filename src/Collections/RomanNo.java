@@ -30,7 +30,7 @@ public class RomanNo {
 
     }
 
-    
+
     public static void main(String[] args) {
     RomanNo romanNo=new RomanNo();
         int result = romanNo.convertRomanToNumeral("XII");
